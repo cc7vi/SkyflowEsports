@@ -1,4 +1,5 @@
-<h2 align="left">Hi 👋! My name is CC.7vi and from ....</p>
+<a href="https://github.com/pythonplayer396"><img src="https://readme-typing-svg.herokuapp.com?font=Russo+One&size=30&duration=4000&pause=1000&color=F7F7F7&width=435&lines=Hello%2C+I+am+Cc.7vi;From+INDIA;Bot/Web+Dev!;Telegram%3A+%40C0deBr34ker1" alt="https://t.me/C0deBr34ker1" /></a>
+
 
 ###
 
