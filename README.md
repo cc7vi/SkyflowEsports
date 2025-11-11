@@ -63,6 +63,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Cc7vi/Cc7vi/output/snake.svg" alt="Snake animation" />
+<img src="https://animeglitch.tumblr.com/post/624473441377107968/cc-code-geass-lelouch-of-the-rebellion/amp" alt="Snake animation" />
 
 ###
