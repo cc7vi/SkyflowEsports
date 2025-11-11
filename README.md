@@ -63,6 +63,8 @@
 
 <br clear="both">
 
-<img src="https://animeglitch.tumblr.com/post/624473441377107968/cc-code-geass-lelouch-of-the-rebellion/amp" alt="Snake animation" />
+<img align="right" height="250" src="https://www.icegif.com/wp-content/uploads/2022/12/icegif-1750.gif"  />
+
+
 
 ###
