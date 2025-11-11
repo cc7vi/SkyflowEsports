@@ -1,4 +1,4 @@
-<a href="https://github.com/pythonplayer396"><img src="https://readme-typing-svg.herokuapp.com?font=Russo+One&size=30&duration=4000&pause=1000&color=F7F7F7&width=435&lines=Hello%2C+I+am+Cc.7vi;From+INDIA;Bot/Web+Dev!;Telegram%3A+%40C0deBr34ker1" /></a>
+<a href="https://github.com/pythonplayer396"><img src="https://readme-typing-svg.herokuapp.com?font=Russo+One&size=30&duration=4000&pause=1000&color=F7F7F7&width=435&lines=Hello%2C+I+am+Cc.7vi;From+INDIA;Bot/Web+Dev!/></a>
 <p align="center">
     <b>ᴘʀᴏғɪʟᴇ ᴠɪsɪᴛᴏʀs</b><br>
 <img align="middle" alt="count" src="https://count.getloli.com/get/@:pythonplayer396?theme=rule34">
