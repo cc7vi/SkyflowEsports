@@ -1,4 +1,11 @@
-<a href="https://github.com/pythonplayer396"><img src="https://readme-typing-svg.herokuapp.com?font=Russo+One&size=30&duration=4000&pause=1000&color=F7F7F7&width=435&lines=Hello%2C+I+am+Cc.7vi;From+INDIA;Bot/Web+Dev!/></a>
+<a href="https://github.com/pythonplayer396"><img src="https://readme-typing-svg.herokuapp.com?font=Russo+One&size=30&duration=4000&pause=1000&color=F7F7F7&width=435&lines=Hello%2C+I+am+CC.7VI;From+INDIA;Bot/Web+Dev!;" alt="" /></a>
+
+
+> [!CAUTION]
+> _```Life is like an anime—full of plot twists, power-ups, and late-night debugging!```_
+> 
+
+
 <p align="center">
     <b>ᴘʀᴏғɪʟᴇ ᴠɪsɪᴛᴏʀs</b><br>
 <img align="middle" alt="count" src="https://count.getloli.com/get/@:pythonplayer396?theme=rule34">
