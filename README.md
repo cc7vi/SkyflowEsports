@@ -60,9 +60,7 @@
 
 
 ###
-
 <br clear="both">
-
 <img align="middle" height="250" src="https://giffiles.alphacoders.com/220/220116.gif"/>
 
 
