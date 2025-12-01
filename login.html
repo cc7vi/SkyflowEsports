@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Skyflow Esports — Login</title>
+
+    <style>
+        body {
+            margin: 0;
+            background: #0c0c0c;
+            font-family: Arial, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+
+        .login-box {
+            background: #1b1b1b;
+            padding: 40px;
+            border-radius: 15px;
+            width: 330px;
+            box-shadow: 0 0 15px #7a00ff88;
+            text-align: center;
+        }
+
+        h2 {
+            color: #b57aff;
+            margin-bottom: 25px;
+        }
+
+        input {
+            width: 90%;
+            padding: 12px;
+            border: none;
+            border-radius: 8px;
+            outline: none;
+            margin-bottom: 15px;
+            background: #292929;
+            color: white;
+        }
+
+        button {
+            width: 100%;
+            padding: 12px;
+            background: #7a00ff;
+            border: none;
+            border-radius: 8px;
+            cursor: pointer;
+            font-size: 16px;
+            color: white;
+            margin-top: 10px;
+        }
+
+        button:hover {
+            background: #9600ff;
+        }
+
+        .error {
+            color: #ff6b6b;
+            margin-top: 10px;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="login-box">
+        <h2>Skyflow Login</h2>
+
+        <input type="email" id="email" placeholder="Email">
+        <input type="password" id="password" placeholder="Password">
+
+        <button onclick="login()">Login</button>
+
+        <p class="error" id="errorMsg"></p>
+    </div>
+
+    <!-- Firebase -->
+    <script type="module" src="auth.js"></script>
+
+</body>
+</html>
